@@ -14,7 +14,7 @@ This is a simple command-line implementation of the Tic Tac Toe game in Python 3
 
 3. Run the following command to start the game:
 
-main.py
+`main.py`
 
 4. The game will display an empty 3x3 grid, representing the Tic Tac Toe board.
 
